@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/J1rHtfc.jpeg" alt="illustration of author" width=465px height=465px/> 
+<img align="right" src="https://i.imgur.com/J1rHtfc.jpeg" alt="illustration of author" /> 
 
 ### Hi, I'm Aslan 👋
 
