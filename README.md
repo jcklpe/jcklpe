@@ -1,5 +1,7 @@
-<img align="right" src="https://i.imgur.com/J1rHtfc.jpeg" alt="illustration of author" width="300" height="345" />
- /> 
+
+<img align="right" width="300" height="375" alt="image of Aslan French" src="https://github.com/user-attachments/assets/e5d6ae6d-5577-4787-bfb5-747005e139d3" />
+
+
 
 ### Hi, I'm Aslan 👋
 
